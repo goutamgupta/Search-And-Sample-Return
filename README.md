@@ -20,6 +20,7 @@ Include the video you produce as part of your submission.
 
 
 Autonomous Navigation / Mapping
+
 a. Fill in the `perception_step()` function within the `perception.py` script with the appropriate
 image processing functions to create a map and update `Rover()` data (similar to what you did
 with `process_image()` in the notebook).
